@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Mini-SOC / Honeynet in Microsoft Azure](https://github.com/Hank-Rutherford-Hill/Azure-mini-SOC)
+  - [Creating a Mini-SOC / Honeynet in Microsoft Azure w/ Live Traffic, Attack Maps, and Incident Response!](https://github.com/Hank-Rutherford-Hill/Azure-mini-SOC)
   - [DETAILED Microsoft Azure Honeynet Tutorial](https://github.com/Hank-Rutherford-Hill/How-To-Create-a-Basic-Honeynet-In-Azure)
 
 <h2> 🤳 Connect with me:</h2>
