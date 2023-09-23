@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a mini-SOC / Honey-net in Microsoft Azure](https://github.com/Hank-Rutherford-Hill/Azure-mini-SOC)
+  - [How to Create a Honeynet in Microsoft Azure (DETAILED)](https://github.com/Hank-Rutherford-Hill/How-To-Create-a-Basic-Honeynet-In-Azure)
 
 <h2> 🤳 Connect with me:</h2>
 
