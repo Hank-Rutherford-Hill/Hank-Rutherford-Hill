@@ -2,9 +2,11 @@
 
 
 
-<h1>Hi, I'm "Hank" <br/><a href="https://www.linkedin.com/in/matthannah1211/">Aspiring SOC Analyst</a> </h1>
+<h1>Hi, I'm "Hank" <br/><a href="https://www.linkedin.com/in/matthannah1211/">Aspiring SOC Analyst / Cloud Engineer</a> </h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+Welcome to my GitHub. This repository tracks my journey into cybersecurity and cloud computing. My background in various IT roles has equipped me with the foundational skills, but Nicole Perlroth's "So This Is How They Tell Me The World Ends" amplified my dedication to the field. I'm on track to become a SOC analyst and cloud engineer, but eventually a career in cyber awareness training and education is where I want to land. As you navigate, you might see some coding projects (in the future!); I'm always exploring. My goal? A secure digital environment for all.
+
+<h2>👨‍💻 IT / Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Mini-SOC / Honeynet in Microsoft Azure w/ Live Traffic, Attack Maps, and Incident Response!](https://github.com/Hank-Rutherford-Hill/Azure-mini-SOC)
