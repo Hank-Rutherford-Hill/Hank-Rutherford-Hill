@@ -1,3 +1,7 @@
+![image](https://github.com/Hank-Rutherford-Hill/Hank-Rutherford-Hill/assets/143474898/925bd38a-cc04-4cc1-a71d-f12d099eab6e)
+
+
+
 <h1>Hi, I'm "Hank" <br/><a href="https://www.linkedin.com/in/matthannah1211/">Aspiring SOC Analyst</a> </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
